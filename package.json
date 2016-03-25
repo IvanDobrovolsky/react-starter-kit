@@ -1,0 +1,23 @@
+{
+  "name": "react-starter-kit",
+  "version": "1.0.0",
+  "description": "Setting up your working enviroment for creating a react application.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvanDobrovolsky/react-starter-kit.git"
+  },
+  "keywords": [
+    "react",
+    "starter-kit"
+  ],
+  "author": "Ivan Dobrovolsky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvanDobrovolsky/react-starter-kit/issues"
+  },
+  "homepage": "https://github.com/IvanDobrovolsky/react-starter-kit#readme"
+}
